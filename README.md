@@ -2,7 +2,7 @@
 I am an aspiring computer scientist passionate about AI, robotics, and computational mathematics, with a focus on impactful research and innovative technology.
 
 ## You can follow me here ##
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abcd/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja-b221b6327/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
 
 
