@@ -19,11 +19,12 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 | [LinkedIn ](https://www.linkedin.com/in/xyz/)  | My end to end journey|
 
 
-<h3 align="left"> Open Soruce & Projects:</h3>
+<h3 align="left"> Open Source & Projects:</h3>
 
 | Topic  | Summary |
 | ------------- | ------------- |
 | [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) |My data science skill-based portfolio |
+| [Student Leaderboard](https://RohanDhameja.github.io/student-leaderboard/) | An interactive leaderboard web app to track student project hours with sorting and search functionality.
 | [Serve Smart](https://github.com/RohanDhameja/ServeSmart)   | An app designed to help Table tennis players with strategic decision making.
 | [Chess in java](https://github.com/RohanDhameja/chessInJava) | A chess game built using java. |
 |[Tic-Tac-Toe](https://github.com/RohanDhameja/TicTacToe)  |A Tic-Tac-Toe game you can play against a friend.|
