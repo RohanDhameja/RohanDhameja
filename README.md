@@ -29,7 +29,7 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 | [Chess in java](https://github.com/RohanDhameja/chessInJava) | A chess game built using java. |
 |[Tic-Tac-Toe](https://github.com/RohanDhameja/TicTacToe)  |A Tic-Tac-Toe game you can play against a friend.|
 | [Tic-Tac-Toe CPU](https://github.com/RohanDhameja/ticTacToeCPU) | A Tic-Tac-Toe game you can play against a CPU opponent.|
-| [Game Engine](https://github.com/RohanDhameja/rohan_dhameja_game_engine) | Game engine made my me in phython. |
+| [Game Engine](https://github.com/RohanDhameja/rohan_dhameja_game_engine) | Game engine made my me in python. |
 
 
 <h3 align="left">Languages and Tools:</h3>
