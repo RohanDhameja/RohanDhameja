@@ -23,7 +23,7 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 
 | Topic  | Summary |
 | ----------------- | ------------- |
-| [Innovation Hub](https://github.com/RohanDhameja/Innovation-Hub) |My first react.js based website |
+| [Innovation Hub]([https://github.com/RohanDhameja/Innovation-Hub](https://rohandhameja.github.io/Innovation-Hub/)) |My first react.js based website |
 | [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) |My data science skill-based portfolio |
 | [Student Leaderboard](https://RohanDhameja.github.io/student-leaderboard/) | An interactive leaderboard web app to track student project hours with sorting and search functionality.
 | [Serve Smart](https://github.com/RohanDhameja/ServeSmart)   | An app designed to help Table tennis players with strategic decision making.
