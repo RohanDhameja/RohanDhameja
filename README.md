@@ -9,16 +9,6 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 ## You can find my projects here: ##
 ## [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) ##
 
-
-
-<h3 align="left">Connect with me:</h3>
-
-| Media  | Summary |
-| ------------- | ------------- |
-| [Medium ](https://medium.com/@rohanD_HS)  | My blog where I write all sorts of articles   |
-| [LinkedIn ](https://www.linkedin.com/in/xyz/)  | My end to end journey|
-
-
 <h3 align="left"> Open Source & Projects:</h3>
 
 | Topic  | Summary |
