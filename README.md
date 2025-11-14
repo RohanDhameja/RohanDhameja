@@ -99,16 +99,6 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanDhameja&custom_title=Rohan's%20Contribution%20Graph&bg_color=1a1b27&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
