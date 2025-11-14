@@ -101,8 +101,6 @@ me.say_hi()
 
 <div align="center">
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
 
 </div>
