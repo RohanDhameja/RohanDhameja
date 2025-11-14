@@ -75,14 +75,14 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9&langs_count=6"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohanDhameja&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea)
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanDhameja&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea"/>
+</p>
 
 ---
 
