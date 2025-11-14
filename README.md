@@ -13,10 +13,12 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 
 | Topic  | Summary |
 | ----------------- | ------------- |
-| [Innovation Hub](https://rohandhameja.github.io/Innovation-Hub/) |My first react.js based website |
-| [The Village](https://rohandhameja.github.io/TheVillage/) |React.js based website where special needs families find their tribe.They connect,Support, & thrive together. |
+| [Line Guard](https://github.com/RohanDhameja/LineGuard)/) |Vegetation detection near power lines using satellite, LiDAR, and computer vision to prevent wildfire risks |
+| [Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/) |React Native app connecting parents of special-needs children for support, messaging, and meetups|
+| [RAG based Searchapp(https://github.com/RohanDhameja/RAG-based-Search-app/) | Local RAG-based AI chatbot that answers questions from PDFs, DOCX, and TXT files |
+| [Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening) | ML project for ASD screening across ages using ensemble methods and a web interface |
 | [ETF-Screener](https://github.com/RohanDhameja/ETF-Screener) |ETF screener showing the top 100 highest-yielding ETFs |
-| [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) |My data science skill-based portfolio |
+| [The Village](https://rohandhameja.github.io/TheVillage/) |React.js based website where special needs families find their tribe.They connect,Support, & thrive together. |
 | [Student Leaderboard](https://RohanDhameja.github.io/student-leaderboard/) | An interactive leaderboard web app to track student project hours with sorting and search functionality.
 | [Serve Smart](https://github.com/RohanDhameja/ServeSmart)   | An app designed to help Table tennis players with strategic decision making.
 
