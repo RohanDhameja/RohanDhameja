@@ -32,6 +32,23 @@ me.say_hi()
 
 ---
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🔥 Project | 🌟 Description | 🔗 Tech Stack |
+|:-----------|:---------------|:--------------|
+| **[Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer)** | AI-powered stock trading strategy with dynamic buy/sell levels | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) |
+| **[Line Guard](https://github.com/RohanDhameja/LineGuard)** | Vegetation detection near power lines to prevent wildfire risks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat) |
+| **[Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/)** | Connecting parents of special-needs children for support | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **[RAG Search App](https://github.com/RohanDhameja/RAG-based-Search-app/)** | Local AI chatbot answering questions from documents | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat) |
+| **[Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening)** | ML project for ASD screening with web interface | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat) |
+| **[The Village](https://rohandhameja.github.io/TheVillage/)** | Community platform for special needs families | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -59,23 +76,6 @@ me.say_hi()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| 🔥 Project | 🌟 Description | 🔗 Tech Stack |
-|:-----------|:---------------|:--------------|
-| **[Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer)** | AI-powered stock trading strategy with dynamic buy/sell levels | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) |
-| **[Line Guard](https://github.com/RohanDhameja/LineGuard)** | Vegetation detection near power lines to prevent wildfire risks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat) |
-| **[Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/)** | Connecting parents of special-needs children for support | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **[RAG Search App](https://github.com/RohanDhameja/RAG-based-Search-app/)** | Local AI chatbot answering questions from documents | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat) |
-| **[Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening)** | ML project for ASD screening with web interface | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat) |
-| **[The Village](https://rohandhameja.github.io/TheVillage/)** | Community platform for special needs families | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
-</div>
 
 ---
 
