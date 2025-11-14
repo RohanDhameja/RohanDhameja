@@ -15,7 +15,7 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 | ----------------- | ------------- |
 | [Innovation Hub](https://rohandhameja.github.io/Innovation-Hub/) |My first react.js based website |
 | [The Village](https://rohandhameja.github.io/TheVillage/) |React.js based website where special needs families find their tribe.They connect,Support, & thrive together. |
-| [ETF-Screener] (https://github.com/RohanDhameja/ETF-Screener) |ETF screener fetching live Yahoo Finance data, showing the top 100 highest-yielding ETFs |
+| [ETF-Screener](https://github.com/RohanDhameja/ETF-Screener) |ETF screener showing the top 100 highest-yielding ETFs |
 | [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) |My data science skill-based portfolio |
 | [Student Leaderboard](https://RohanDhameja.github.io/student-leaderboard/) | An interactive leaderboard web app to track student project hours with sorting and search functionality.
 | [Serve Smart](https://github.com/RohanDhameja/ServeSmart)   | An app designed to help Table tennis players with strategic decision making.
