@@ -2,6 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rohan;Computer+Scientist;AI+%26+Robotics+Enthusiast;Full-Stack+Developer;Data+Science+Innovator" alt="Typing SVG" />
 
+💡 **Open to collaborating on**: AI & ML • Robotics • Data Science • Full-Stack Dev • Assistive Tech
+
+[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanDhameja)
@@ -106,26 +109,7 @@ me.say_hi()
 
 ---
 
-## 💡 Latest Projects
-
 <div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-💡 **Open to collaborating on**: AI & ML • Robotics • Data Science • Full-Stack Dev • Assistive Tech
-
-[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
