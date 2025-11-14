@@ -13,7 +13,7 @@ I am an aspiring computer scientist passionate about AI, robotics, and computati
 
 | Topic  | Summary |
 | ----------------- | ------------- |
-| [Line Guard](https://github.com/RohanDhameja/LineGuard)/) |Vegetation detection near power lines using satellite, LiDAR, and computer vision to prevent wildfire risks |
+| [Line Guard](https://github.com/RohanDhameja/LineGuard) |Vegetation detection near power lines using satellite, LiDAR, and computer vision to prevent wildfire risks |
 | [Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/) |React Native app connecting parents of special-needs children for support, messaging, and meetups|
 | [RAG based Searchapp](https://github.com/RohanDhameja/RAG-based-Search-app/) | Local RAG-based AI chatbot that answers questions from PDFs, DOCX, and TXT files |
 | [Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening) | ML project for ASD screening across ages using ensemble methods and a web interface |
