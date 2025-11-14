@@ -1,29 +1,162 @@
-<h1 align="left">Hi, I'm Rohan Dhameja 👋</h1> 
-I am an aspiring computer scientist passionate about AI, robotics, and computational mathematics, with a focus on impactful research and innovative technology.
+<div align="center">
+  
+# 👋 Hi, I'm Rohan Dhameja
 
-## You can follow me here ##
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja-b221b6327/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Scientist;AI+%26+Robotics+Enthusiast;Full-Stack+Developer;Data+Science+Innovator" alt="Typing SVG" />
+
+### 🚀 Aspiring Computer Scientist | AI & Robotics | Computational Mathematics
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanDhameja)
 
+![Profile Views](https://komarev.com/ghpvc/?username=RohanDhameja&color=667eea&style=for-the-badge)
 
-## You can find my projects here: ##
-## [Data Science Portoflio](https://github.com/RohanDhameja/Data-Science-Portofolio) ##
+</div>
 
-<h3 align="left"> Open Source & Projects:</h3>
+---
 
-| Topic  | Summary |
-| ----------------- | ------------- |
-| [Line Guard](https://github.com/RohanDhameja/LineGuard) |Vegetation detection near power lines using satellite, LiDAR, and computer vision to prevent wildfire risks |
-| [Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/) |React Native app connecting parents of special-needs children for support, messaging, and meetups|
-| [RAG based Searchapp](https://github.com/RohanDhameja/RAG-based-Search-app/) | Local RAG-based AI chatbot that answers questions from PDFs, DOCX, and TXT files |
-| [Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening) | ML project for ASD screening across ages using ensemble methods and a web interface |
-| [ETF-Screener](https://github.com/RohanDhameja/ETF-Screener) |ETF screener showing the top 100 highest-yielding ETFs |
-| [The Village](https://rohandhameja.github.io/TheVillage/) |React.js based website where special needs families find their tribe.They connect,Support, & thrive together. |
-| [Student Leaderboard](https://RohanDhameja.github.io/student-leaderboard/) | An interactive leaderboard web app to track student project hours with sorting and search functionality.
-| [Serve Smart](https://github.com/RohanDhameja/ServeSmart)   | An app designed to help Table tennis players with strategic decision making.
+## 🎯 About Me
 
+```python
+class RohanDhameja:
+    def __init__(self):
+        self.name = "Rohan Dhameja"
+        self.role = "Computer Scientist"
+        self.location = "San Jose, CA"
+        self.education = "Bellarmine College Preparatory High School"
+        self.interests = ["AI", "Robotics", "Full-Stack Dev", "Data Science"]
+        self.current_focus = "Impactful research & innovative technology"
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together!")
 
+me = RohanDhameja()
+me.say_hi()
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🔥 Project | 🌟 Description | 🔗 Tech Stack |
+|:-----------|:---------------|:--------------|
+| **[Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer)** | AI-powered stock trading strategy with dynamic buy/sell levels | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) |
+| **[Line Guard](https://github.com/RohanDhameja/LineGuard)** | Vegetation detection near power lines to prevent wildfire risks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat) |
+| **[Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/)** | Connecting parents of special-needs children for support | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **[RAG Search App](https://github.com/RohanDhameja/RAG-based-Search-app/)** | Local AI chatbot answering questions from documents | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat) |
+| **[Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening)** | ML project for ASD screening with web interface | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat) |
+| **[The Village](https://rohandhameja.github.io/TheVillage/)** | Community platform for special needs families | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohanDhameja&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RohanDhameja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanDhameja&custom_title=Rohan's%20Contribution%20Graph&bg_color=1a1b27&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Latest Projects
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects, especially in:
+- 🤖 AI & Machine Learning
+- 🚁 Robotics & Automation
+- 📊 Data Science & Analytics
+- 🌐 Full-Stack Development
+- ♿ Assistive Technology
+
+### 📫 Reach Out:
+
+[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ From [RohanDhameja](https://github.com/RohanDhameja)
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+
+</div>
 
