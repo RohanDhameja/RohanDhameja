@@ -121,30 +121,15 @@ me.say_hi()
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, especially in:
-- 🤖 AI & Machine Learning
-- 🚁 Robotics & Automation
-- 📊 Data Science & Analytics
-- 🌐 Full-Stack Development
-- ♿ Assistive Technology
-
-### 📫 Reach Out:
+💡 **Open to collaborating on**: AI & ML • Robotics • Data Science • Full-Stack Dev • Assistive Tech
 
 [![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ From [RohanDhameja](https://github.com/RohanDhameja)
-
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
+*"Innovation distinguishes between a leader and a follower."* — Steve Jobs
 
 </div>
 
