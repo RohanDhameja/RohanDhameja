@@ -1,107 +1,86 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rohan;Computer+Scientist;AI+%26+Robotics+Enthusiast;Full-Stack+Developer;Data+Science+Innovator" alt="Typing SVG" />
+# Rohan Dhameja
 
-💡 **Open to collaborating on**: AI & ML • Robotics • Data Science • Full-Stack Dev • Assistive Tech
+High school student building software for AI, data, accessibility, and community impact.
 
-[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanDhameja)
-![Profile Views](https://komarev.com/ghpvc/?username=RohanDhameja&color=667eea&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-B23121?style=flat-square&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Dhameja-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
+[![Medium](https://img.shields.io/badge/Medium-rohanD__HS-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
 
 </div>
 
----
+## About
 
-## 🎯 About Me
+I am a student at Bellarmine College Preparatory in San Jose, CA, interested in
+using computer science to solve practical problems for real people. My projects
+usually sit at the intersection of machine learning, full-stack development,
+data analysis, and social impact.
 
-```python
-class RohanDhameja:
-    def __init__(self):
-        self.name = "Rohan Dhameja"
-        self.role = "Computer Scientist"
-        self.location = "San Jose, CA"
-        self.education = "Bellarmine College Preparatory High School"
-        self.interests = ["AI", "Robotics", "Full-Stack Dev", "Data Science"]
-        self.current_focus = "Impactful research & innovative technology"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
+I like building things that move from idea to working prototype: tools for
+nonprofits, apps for families and students, AI experiments, and systems that
+make information easier to act on.
 
-me = RohanDhameja()
-me.say_hi()
-```
+## Current Focus
 
----
+- Building civic and nonprofit technology with Salesforce Experience Cloud,
+  Lightning Web Components, JavaScript, and Apex.
+- Exploring machine learning for health, accessibility, safety, and financial
+  decision support.
+- Turning research ideas into usable applications with Python, React,
+  TypeScript, Flask, and data science libraries.
 
-## 🏆 Featured Projects
+## Selected Projects
 
-<div align="center">
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Together We Will](https://github.com/RohanDhameja/TogetherWeWill) | Salesforce Experience Cloud site for a nonprofit, including public pages, donation and legal content, clean custom-domain routing, release docs, and validation scripts. | Salesforce LWR, LWC, Apex, JavaScript |
+| [Inclusive Heart Learning Hub](https://github.com/RohanDhameja/inclusiveheart-learning-hub) | System architecture for managing STEM education programs, student enrollment, volunteers, and learning tracks. | Systems design, nonprofit operations |
+| [LineGuard](https://github.com/RohanDhameja/LineGuard) | Vegetation detection near power lines to identify possible wildfire risks using imagery and computer vision. | Python, OpenCV, AI |
+| [ASD Comorbidity Analysis](https://github.com/RohanDhameja/asd-comorbidity-analysis-using-ai) | Machine learning analysis of socioeconomic factors and comorbidities in children with autism, using explainable AI techniques. | Python, Jupyter, SHAP, ML |
+| [BuddyConnect](https://github.com/RohanDhameja/BuddyConnect) | Mobile app concept for connecting parents of children with special needs for peer support, meetups, and community. | React Native, TypeScript, Supabase |
+| [Project CleanLoom](https://github.com/RohanDhameja/Project-CleanLoom) | Affordable lint-control concept for weaving workshops, focused on practical constraints in small workspaces. | HTML, prototyping |
+| [Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer) | Full-stack app for analyzing historical stock data and dynamic buy/sell levels. | Flask, React, Python |
 
-| 🔥 Project | 🌟 Description | 🔗 Tech Stack |
-|:-----------|:---------------|:--------------|
-| **[Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer)** | AI-powered stock trading strategy with dynamic buy/sell levels | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) |
-| **[Line Guard](https://github.com/RohanDhameja/LineGuard)** | Vegetation detection near power lines to prevent wildfire risks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat) |
-| **[Buddy Connect](https://github.com/RohanDhameja/BuddyConnect/)** | Connecting parents of special-needs children for support | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **[RAG Search App](https://github.com/RohanDhameja/RAG-based-Search-app/)** | Local AI chatbot answering questions from documents | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat) |
-| **[Cross-Age ASD Screening](https://github.com/RohanDhameja/Cross-Age-ASD-Screening)** | ML project for ASD screening with web interface | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat) |
-| **[The Village](https://rohandhameja.github.io/TheVillage/)** | Community platform for special needs families | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+## Technical Toolkit
 
-</div>
+- **Languages:** Python, JavaScript, TypeScript, Java, HTML/CSS
+- **Frontend:** React, React Native, Astro, Lightning Web Components
+- **Backend and platforms:** Flask, Supabase, Salesforce Experience Cloud, Apex
+- **Data and AI:** Pandas, NumPy, scikit-learn, OpenCV, SHAP, Jupyter
+- **Workflow:** Git, GitHub, CLI tooling, release checklists, validation scripts
 
----
+## What I Care About
 
-## 🛠️ Tech Stack
+- Building useful tools, not just demos.
+- Making technology accessible to families, students, nonprofits, and local
+  communities.
+- Learning in public through projects, documentation, and iteration.
+- Combining software engineering with empathy, research, and real-world
+  constraints.
 
-<div align="center">
+## Project Pattern
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Most of my work follows a simple loop:
 
-</div>
+1. Find a concrete problem.
+2. Build a small working prototype.
+3. Test it with real users or realistic data.
+4. Document what works, what breaks, and what should improve next.
 
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Rohan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanDhameja&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea"/>
-</p>
+## Contact
 
----
+I am always interested in thoughtful collaborations around AI, education,
+accessibility, nonprofit technology, and tools that help communities work
+better.
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=RohanDhameja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-*"Innovation distinguishes between a leader and a follower."* — Steve Jobs
-
-</div>
-
+- Email: [rdhameja09@gmail.com](mailto:rdhameja09@gmail.com)
+- LinkedIn: [Rohan Dhameja](https://www.linkedin.com/in/rohan-dhameja)
+- Medium: [@rohanD_HS](https://medium.com/@rohanD_HS)
