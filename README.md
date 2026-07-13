@@ -95,7 +95,16 @@ Most of my work follows a simple loop:
 3. Test it with real users or realistic data.
 4. Document what works, what breaks, and what should improve next.
 
-## GitHub Activity
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub stats snapshot" />
+  <img width="49%" src="./assets/top-languages.svg" alt="Most used languages snapshot" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanDhameja&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="Rohan's GitHub streak" />
+</p>
 
 | Signal | What to look at |
 | --- | --- |
@@ -105,8 +114,9 @@ Most of my work follows a simple loop:
 | Community-focused apps | [BuddyConnect](https://github.com/RohanDhameja/BuddyConnect), [The Village](https://github.com/RohanDhameja/TheVillage), and [Inclusive Heart Learning Hub](https://github.com/RohanDhameja/inclusiveheart-learning-hub). |
 | Languages visible across public work | Python, JavaScript, TypeScript, Java, HTML/CSS, Apex, and Jupyter notebooks. |
 
-GitHub's built-in contribution graph below this README is the best live view of
-recent commits and project activity.
+The cards above are repo-hosted snapshots built from public GitHub data. The
+contribution graph below this README remains the best live view of recent
+commits and project activity.
 
 ## Contact
 
