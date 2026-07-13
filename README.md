@@ -89,10 +89,15 @@ Most of my work follows a simple loop:
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rohan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
+| Signal | What to look at |
+| --- | --- |
+| Recent production work | [Together We Will](https://github.com/RohanDhameja/TogetherWeWill), a Salesforce Experience Cloud site with release docs and validation tooling. |
+| AI and data projects | [LineGuard](https://github.com/RohanDhameja/LineGuard), [ASD Comorbidity Analysis](https://github.com/RohanDhameja/asd-comorbidity-analysis-using-ai), and [Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer). |
+| Community-focused apps | [BuddyConnect](https://github.com/RohanDhameja/BuddyConnect), [The Village](https://github.com/RohanDhameja/TheVillage), and [Inclusive Heart Learning Hub](https://github.com/RohanDhameja/inclusiveheart-learning-hub). |
+| Languages visible across public work | Python, JavaScript, TypeScript, Java, HTML/CSS, Apex, and Jupyter notebooks. |
+
+GitHub's built-in contribution graph below this README is the best live view of
+recent commits and project activity.
 
 ## Contact
 
