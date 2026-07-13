@@ -2,9 +2,9 @@
 
 # Rohan Dhameja
 
-High school student building software for AI, data, accessibility, and community impact.
+High school student building software for AI, data, robotics, accessibility, and community impact.
 
-**Open to collaborating on:** AI and ML | Data Science | Full-Stack Development | Assistive Tech | Nonprofit Technology
+**Open to collaborating on:** AI and ML | Robotics | Data Science | Full-Stack Development | Assistive Tech | Nonprofit Technology
 
 [![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Dhameja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
@@ -25,8 +25,15 @@ I like building things that move from idea to working prototype: tools for
 nonprofits, apps for families and students, AI experiments, and systems that
 make information easier to act on.
 
+I am also a software developer on my FRC robotics team, Team 254, where I get to
+work in a high-pressure engineering environment with teammates building,
+testing, and improving competition robot software.
+
 ## Current Focus
 
+- Contributing to FRC Team 254 as a software developer, learning how software,
+  electrical, mechanical, and strategy work come together in competition
+  robotics.
 - Building civic and nonprofit technology with Salesforce Experience Cloud,
   Lightning Web Components, JavaScript, and Apex.
 - Exploring machine learning for health, accessibility, safety, and financial
@@ -52,6 +59,7 @@ make information easier to act on.
 - **Frontend:** React, React Native, Astro, Lightning Web Components
 - **Backend and platforms:** Flask, Supabase, Salesforce Experience Cloud, Apex
 - **Data and AI:** Pandas, NumPy, scikit-learn, OpenCV, SHAP, Jupyter
+- **Robotics:** FRC software development, robot systems, team engineering
 - **Workflow:** Git, GitHub, CLI tooling, release checklists, validation scripts
 
 <div align="center">
@@ -91,6 +99,7 @@ Most of my work follows a simple loop:
 
 | Signal | What to look at |
 | --- | --- |
+| Robotics and team engineering | Software developer on FRC Team 254, contributing in a competition robotics environment. |
 | Recent production work | [Together We Will](https://github.com/RohanDhameja/TogetherWeWill), a Salesforce Experience Cloud site with release docs and validation tooling. |
 | AI and data projects | [LineGuard](https://github.com/RohanDhameja/LineGuard), [ASD Comorbidity Analysis](https://github.com/RohanDhameja/asd-comorbidity-analysis-using-ai), and [Stock Trading Analyzer](https://github.com/RohanDhameja/stock-trading-analyzer). |
 | Community-focused apps | [BuddyConnect](https://github.com/RohanDhameja/BuddyConnect), [The Village](https://github.com/RohanDhameja/TheVillage), and [Inclusive Heart Learning Hub](https://github.com/RohanDhameja/inclusiveheart-learning-hub). |
