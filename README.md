@@ -4,9 +4,13 @@
 
 High school student building software for AI, data, accessibility, and community impact.
 
-[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-B23121?style=flat-square&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Dhameja-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
-[![Medium](https://img.shields.io/badge/Medium-rohanD__HS-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
+**Open to collaborating on:** AI and ML | Data Science | Full-Stack Development | Assistive Tech | Nonprofit Technology
+
+[![Email](https://img.shields.io/badge/Email-rdhameja09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhameja09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Dhameja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-dhameja)
+[![Medium](https://img.shields.io/badge/Medium-rohanD__HS-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohanD_HS)
+[![GitHub](https://img.shields.io/badge/GitHub-RohanDhameja-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanDhameja)
+![Profile Views](https://komarev.com/ghpvc/?username=RohanDhameja&color=667eea&style=for-the-badge)
 
 </div>
 
@@ -50,6 +54,21 @@ make information easier to act on.
 - **Data and AI:** Pandas, NumPy, scikit-learn, OpenCV, SHAP, Jupyter
 - **Workflow:** Git, GitHub, CLI tooling, release checklists, validation scripts
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
 ## What I Care About
 
 - Building useful tools, not just demos.
@@ -71,8 +90,8 @@ Most of my work follows a simple loop:
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Rohan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohanDhameja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rohan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDhameja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 ## Contact
