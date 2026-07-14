@@ -2,7 +2,10 @@
 
 # Rohan Dhameja
 
-High school student building software for AI, data, robotics, accessibility, and community impact.
+High school researcher and software developer interested in machine learning,
+robotics, and building technology that improves people's lives. My projects
+combine AI, data, full-stack engineering, and community impact, from nonprofit
+platforms to accessibility tools and autonomous systems.
 
 **Open to collaborating on:** AI and ML | Robotics | Data Science | Full-Stack Development | Assistive Tech | Nonprofit Technology
 
@@ -13,6 +16,21 @@ High school student building software for AI, data, robotics, accessibility, and
 ![Profile Views](https://komarev.com/ghpvc/?username=RohanDhameja&color=667eea&style=for-the-badge)
 
 </div>
+
+## Achievements
+
+- **Software Developer, FRC Team 254 (Cheesy Poofs):** Building and improving
+  competition robot software in a high-performing FRC engineering environment.
+- **AI research accepted at SCCUR:** Research work accepted for the Southern
+  California Conferences for Undergraduate Research.
+- **Conrad Innovator:** Developed FireGuard AI, a wildfire risk and response
+  concept using technology for public safety.
+- **COSMOS UC Davis Machine Learning:** Completed selective summer coursework
+  focused on machine learning.
+- **AIME Qualifier:** Qualified for the American Invitational Mathematics
+  Examination.
+- **Founder and developer:** Builds technology supporting autism,
+  accessibility, and nonprofit initiatives.
 
 ## About
 
